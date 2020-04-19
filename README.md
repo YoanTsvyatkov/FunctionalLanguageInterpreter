@@ -1,1 +1,1 @@
-# ThisFunc
+Functional language interpreter
